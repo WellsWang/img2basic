@@ -12,7 +12,9 @@
 
 ### 将BMP文件转换成数据
 使用Python程序bmp2arr.py，将图片文件转换成BASIC程序中的图形数据。使用方法
+
     python3 bmp2arr.py <BMP文件名>
+
 输出的结果为转换后的数据以及数据的长度。
 
 ### 将数据转储成BASIC的图形块文件
